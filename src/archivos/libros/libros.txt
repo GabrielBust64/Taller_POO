@@ -1,0 +1,2 @@
+
+isbn: equisde', nombre:equisde', autor: equisde', precio: 150, edadMin: 12
